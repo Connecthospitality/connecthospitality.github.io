@@ -1,0 +1,21 @@
+{
+  "short_name": "LetsAudits",
+  "name": "LetsAudits Mobile Quality Inspector",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/#/mobile",
+  "background_color": "#263746",
+  "theme_color": "#f37021",
+  "display": "standalone",
+  "orientation": "portrait"
+}
